@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @code001111
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning html/c++
-- 💞️ I’m looking to collaborate on new projects that can help me learn better
-- 😄 Pronouns: she/her
+- Hi, I’m @code001111
+- I’m interested in programming
+- I’m currently learning html/c++
+- I’m looking to collaborate on new projects that can help me learn better
+  
 
 
 <!---
